@@ -1,3 +1,3 @@
 # doingstuff
 messing around with some java stuff
-and doing some exercises
+and doing some exercises.
